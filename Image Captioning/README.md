@@ -1,4 +1,5 @@
-#Image captioning
+    # Image captioning
+
 Image captioning is a fascinating and challenging task in the field of computer vision and natural language processing. The goal of an image captioning project is to develop a system that can generate human-like textual descriptions for images. Essentially, it combines computer vision techniques to understand the content of an image and natural language processing to express that understanding in the form of a coherent and descriptive sentence.
 
 
