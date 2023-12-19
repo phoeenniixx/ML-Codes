@@ -16,6 +16,13 @@ Dataset and its structure
 5. Each image is given 5 different captions by 5 different humans. This is because an image can be described in multiple ways.
 
 
+One measure that can be used to evaluate the skill of the model are BLEU scores. For reference, below are some ball-park BLEU scores for skillful models when evaluated on the test dataset (taken from the 2017 paper “Where to put the Image in an Image Caption Generator“ [https://arxiv.org/abs/1703.09137]):
+
+BLEU-1: 0.401 to 0.578.
+BLEU-2: 0.176 to 0.390.
+BLEU-3: 0.099 to 0.260.
+BLEU-4: 0.059 to 0.170.
+
 Model
 
 Objective: Image captioning, generating textual descriptions for images.
