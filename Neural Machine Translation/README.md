@@ -8,11 +8,11 @@
 The project involves building a machine translation model using a sequence-to-sequence (seq2seq) architecture with an encoder-decoder framework. The goal is to translate sentences from one language to another. The project can be broken down into several key steps:
 
 Step 1: 
-      Download and Clean the Data
-      Download a dataset containing language pairs (source and target phrases).
-      Extract the data and read it into a format suitable for processing.
-      Clean the data by removing non-printable characters, punctuation, and non-alphabetic characters.
-      Convert the text to lowercase for uniformity.
+1. Download and Clean the Data
+2. Download a dataset containing language pairs (source and target phrases).
+3. Extract the data and read it into a format suitable for processing.
+4. Clean the data by removing non-printable characters, punctuation, and non-alphabetic characters.
+5. Convert the text to lowercase for uniformity.
 Step 2: 
       Split and Prepare the Data for Training
       Split the cleaned data into training and testing sets.
